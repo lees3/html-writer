@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+
+}
